@@ -1,3 +1,3 @@
 ## Peoject list
 
-* Bill splitter
+* Bill splitter (Python lists, loops, dictionaries)
